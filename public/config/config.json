@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9a8ACA517B84E442d55d82ea7110645e5441Effe",
+  "SCAN_LINK": "https://polygonscan.com/address/0x9a8aca517b84e442d55d82ea7110645e5441effe",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Cyborg Werewolves",
+  "SYMBOL": "TCWE",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/thecyborgwerewolves",
+  "SHOW_BACKGROUND": true
+}
